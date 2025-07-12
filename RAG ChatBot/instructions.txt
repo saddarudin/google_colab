@@ -1,0 +1,5 @@
+1. install requirements by running this command
+pip install -r requirements.txt
+
+2. run this command in terminal to start the app
+streamlit run app.py & npx localtunnel --port 8501 & curl ipv4.icanhazip.com
